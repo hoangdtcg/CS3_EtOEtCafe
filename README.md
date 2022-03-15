@@ -1,7 +1,7 @@
-#Dự án ÉtÔÉt
+# Dự án ÉtÔÉt
 <hr/>
 
-##Thành viên:
+## Thành viên:
 
 - **Sơn Thùng**
 - Đạt Gờ
