@@ -8,6 +8,10 @@
     <title>Document</title>
 </head>
 <body>
-    Form Login
+<form action="">
+    <input type="text" placeholder="Tình anh là biển cả">
+    <input type="text" placeholder="Em lại đựng bằng rổ rá">
+    <button>Send</button>
+</form>
 </body>
 </html>
