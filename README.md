@@ -5,4 +5,4 @@
 
 - **Sơn Thùng**
 - Đạt Gờ
-- Tuấn Mo
+- Tuấn Mô đồ
